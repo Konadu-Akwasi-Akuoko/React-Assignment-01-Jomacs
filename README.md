@@ -9,6 +9,8 @@ Each test focuses on a different key concept of writing clean, correct JSX code.
 
 ## 🚀 How To Start
 
+> **Important**: The below commands will only work in a **Unix-based terminal** (like Git Bash, WSL, or MacOS Terminal). So if you're using **Windows Command Prompt**, please switch to Git Bash. If you are on a Mac or Linux, you can use your default terminal.
+
 ## 1. Clone the Original Repository
 
 First, **clone** the original assignment repo onto your computer:
